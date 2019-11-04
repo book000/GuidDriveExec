@@ -1,6 +1,6 @@
 # GuidDriveExec
 
-[日本語のREADMEはこちら](https://github.com/book000/GuidDriveExec/blob/master/README.md)
+[日本語のREADMEはこちら](https://github.com/book000/GuidDriveExec/blob/master/README-ja.md)
 
 Replace the drive GUID in the command with a drive letter and then run the command.
 
