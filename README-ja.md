@@ -1,5 +1,7 @@
 # GuidDriveExec
 
+[Click here for English README](https://github.com/book000/GuidDriveExec/blob/master/README.md)
+
 コマンドに含まれるドライブGUIDをドライブ文字に置き換えてから実行します。
 
 ## 使い方
